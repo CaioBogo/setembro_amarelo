@@ -1,24 +1,26 @@
 body {
-    Font-family: Arial, sans-serif;
-    Background-color: #FFDD93;
-    Color: #333;
-    Display: flex;
-    Justify-content: center;
-    Align-items: center;
-    Height: 100vh;
-    Margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #FFDD93;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: auto;
 }
 .container {
-    Text-align: center;
-    Background-color: #fff;
-    Padding: 20px;
-    Border-radius: 10px;
-    Box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    margin:auto;
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
 }
 h1 {
-    Color: #FFB347;
+    color: #FFB347;
 }
 #frase {
-    Font-size: 1.5rem;
-    Margin-top: 20px;
+    text-align:center;
+    font-size: 1.5rem;
+    margin-top: 20px;
 }
