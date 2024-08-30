@@ -1,0 +1,24 @@
+body {
+    Font-family: Arial, sans-serif;
+    Background-color: #FFDD93;
+    Color: #333;
+    Display: flex;
+    Justify-content: center;
+    Align-items: center;
+    Height: 100vh;
+    Margin: 0;
+}
+.container {
+    Text-align: center;
+    Background-color: #fff;
+    Padding: 20px;
+    Border-radius: 10px;
+    Box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    Color: #FFB347;
+}
+#frase {
+    Font-size: 1.5rem;
+    Margin-top: 20px;
+}
